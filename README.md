@@ -1,35 +1,47 @@
-# Welcome to Poorva Tuteja's GitHub Profile!
+# Hi there! 👋 I'm Poorva Tuteja
 
-## About Me
-Hello! I'm Poorva Tuteja, a passionate mobile application developer with a keen interest in crafting elegant and user-centric mobile applications. With over 5 years of experience in the field, I've developed expertise in iOS and Android development, UI/UX design, and problem-solving. I am dedicated to delivering high-quality software solutions that meet users' needs and exceed expectations.
+Welcome to my GitHub profile! I'm a passionate Mobile Application Developer with a keen interest in creating innovative and user-friendly apps. I enjoy exploring new technologies and finding elegant solutions to complex problems.
 
-## Skills
-### Skills Graph
-![Skills Graph](skills_graph.png)
+## 🔧 Skills
 
-- **Programming Languages**: Swift, Java, Kotlin
-- **Frameworks/Libraries**: SwiftUI, UIKit, Android Jetpack
-- **Tools**: Xcode, Android Studio, Git
-- **UI/UX Design**: Adobe XD, Sketch, Figma
+- **Languages:** Swift, Kotlin, Java
+- **Frameworks:** SwiftUI, Android SDK
+- **Tools:** Xcode, Android Studio
+- **Version Control:** Git
 
-## Projects
-Here are some of my notable projects:
+## 📈 GitHub Stats
 
-### [Project Name 1](link_to_project_1)
-Brief description of the project. You can include bullet points, screenshots, or even GIFs to showcase the app's features.
+[![Poorva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs)](https://github.com/your-username)
 
-### [Project Name 2](link_to_project_2)
-Brief description of the project. You can include bullet points, screenshots, or even GIFs to showcase the app's features.
+## 📱 Projects
 
-### [Project Name 3](link_to_project_3)
-Brief description of the project. You can include bullet points, screenshots, or even GIFs to showcase the app's features.
+Here are a few projects that showcase my skills and interests:
 
-## Education
-- Bachelor's Degree in Computer Science, [University Name], [Year of Graduation]
+1. **AwesomeApp**
+   - Description: A feature-rich mobile application for [brief description].
+   - Technologies: Swift, SwiftUI, [other relevant technologies].
+   - [Link to the project repository or live demo].
 
-## Get in Touch
-- LinkedIn: [Poorva Tuteja](https://www.linkedin.com/in/poorvatuteja)
-- Email: [email@example.com]
+2. **CoolProject**
+   - Description: [Brief description of the project].
+   - Technologies: Kotlin, Android SDK, [other relevant technologies].
+   - [Link to the project repository or live demo].
 
-Feel free to explore my projects and get in touch if you have any questions or collaboration opportunities!
+3. **InnovativeApp**
+   - Description: [Brief description of the project].
+   - Technologies: Swift, SwiftUI, [other relevant technologies].
+   - [Link to the project repository or live demo].
 
+## 🌱 Currently Learning
+
+I'm always eager to expand my knowledge. Currently, I'm learning [current learning focus, e.g., Machine Learning with CoreML].
+
+## 📫 Let's Connect!
+
+- LinkedIn: [Your LinkedIn profile link]
+- Twitter: [@YourTwitterHandle]
+- Portfolio: [Your portfolio or personal website]
+
+Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about mobile app development! 😊
+
+Happy coding!
