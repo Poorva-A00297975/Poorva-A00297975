@@ -1,58 +1,35 @@
+# Welcome to Poorva Tuteja's GitHub Profile!
 
-Welcome to my portfolio! I'm Poorva, a dedicated mobile application developer with a passion for creating impactful and user-friendly mobile solutions. Below you'll find some of my notable projects and contributions.
-
-## Projects
-
-### Project 1: [App Name]
-
-Description: [Brief description of the app and its purpose.]
-
-- Technologies used: [List of technologies used, e.g., Swift, Kotlin, React Native]
-- [Link to GitHub repository or App Store/Google Play listing]
-- Screenshots:
-
-![Screenshot 1](link/to/screenshot1.png)
-![Screenshot 2](link/to/screenshot2.png)
-
-### Project 2: [App Name]
-
-Description: [Brief description of the app and its purpose.]
-
-- Technologies used: [List of technologies used, e.g., Swift, Kotlin, React Native]
-- [Link to GitHub repository or App Store/Google Play listing]
-- Screenshots:
-
-![Screenshot 1](link/to/screenshot1.png)
-![Screenshot 2](link/to/screenshot2.png)
-
-## Open Source Contributions
-
-- [Contribution 1](link/to/contribution1): Brief description.
-- [Contribution 2](link/to/contribution2): Brief description.
+## About Me
+Hello! I'm Poorva Tuteja, a passionate mobile application developer with a keen interest in crafting elegant and user-centric mobile applications. With over 5 years of experience in the field, I've developed expertise in iOS and Android development, UI/UX design, and problem-solving. I am dedicated to delivering high-quality software solutions that meet users' needs and exceed expectations.
 
 ## Skills
+### Skills Graph
+![Skills Graph](skills_graph.png)
 
-- **Languages**: Swift, Kotlin, Java
-- **Frameworks**: Flutter, React Native
+- **Programming Languages**: Swift, Java, Kotlin
+- **Frameworks/Libraries**: SwiftUI, UIKit, Android Jetpack
 - **Tools**: Xcode, Android Studio, Git
-- **Design**: Sketch, Figma
+- **UI/UX Design**: Adobe XD, Sketch, Figma
 
-## Experience
+## Projects
+Here are some of my notable projects:
 
-![Experience Chart](link/to/experience_chart.png)
+### [Project Name 1](link_to_project_1)
+Brief description of the project. You can include bullet points, screenshots, or even GIFs to showcase the app's features.
+
+### [Project Name 2](link_to_project_2)
+Brief description of the project. You can include bullet points, screenshots, or even GIFs to showcase the app's features.
+
+### [Project Name 3](link_to_project_3)
+Brief description of the project. You can include bullet points, screenshots, or even GIFs to showcase the app's features.
 
 ## Education
+- Bachelor's Degree in Computer Science, [University Name], [Year of Graduation]
 
-![Education Chart](link/to/education_chart.png)
+## Get in Touch
+- LinkedIn: [Poorva Tuteja](https://www.linkedin.com/in/poorvatuteja)
+- Email: [email@example.com]
 
-## Contact Me
+Feel free to explore my projects and get in touch if you have any questions or collaboration opportunities!
 
-Feel free to reach out to me via email at [your.email@example.com].
-
-## Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
-- [GitHub](https://github.com/yourgithubprofile)
-- [Portfolio Website](https://www.yourportfoliowebsite.com)
-
-I'm open to new opportunities and collaborations. Let's create something amazing together!
