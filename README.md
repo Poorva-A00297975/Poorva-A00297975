@@ -1,10 +1,9 @@
-# Poorva's Mobile Application Development Portfolio
 
 Welcome to my portfolio! I'm Poorva, a dedicated mobile application developer with a passion for creating impactful and user-friendly mobile solutions. Below you'll find some of my notable projects and contributions.
 
 ## Projects
 
-### Project 1: OURCHATWORLD
+### Project 1: [App Name]
 
 Description: [Brief description of the app and its purpose.]
 
@@ -38,6 +37,14 @@ Description: [Brief description of the app and its purpose.]
 - **Tools**: Xcode, Android Studio, Git
 - **Design**: Sketch, Figma
 
+## Experience
+
+![Experience Chart](link/to/experience_chart.png)
+
+## Education
+
+![Education Chart](link/to/education_chart.png)
+
 ## Contact Me
 
 Feel free to reach out to me via email at [your.email@example.com].
@@ -49,4 +56,3 @@ Feel free to reach out to me via email at [your.email@example.com].
 - [Portfolio Website](https://www.yourportfoliowebsite.com)
 
 I'm open to new opportunities and collaborations. Let's create something amazing together!
-
