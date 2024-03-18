@@ -27,8 +27,7 @@ I'm a passionate mobile application developer with over 5 years of experience in
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=poorvatuteja&theme=react-dark)
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/poorvatuteja/)
-- [Twitter](https://twitter.com/poorvatuteja)
+- [LinkedIn](www.linkedin.com/in/poorva-tuteja-a7b210239)
 - [Portfolio](https://www.poorvatuteja.com)
 
 Feel free to reach out to me for collaborations, projects, or just to say hello! 😊
