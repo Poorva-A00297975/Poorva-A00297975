@@ -28,6 +28,6 @@ I'm a passionate mobile application developer with over 5 years of experience in
 
 ## Connect with Me
 - [LinkedIn](www.linkedin.com/in/poorva-tuteja-a7b210239)
-- [Portfolio]([https://www.poorvatuteja.com](https://poorva-a00297975.github.io/))
+- [Portfolio](https://poorva-a00297975.github.io/)
 
 Feel free to reach out to me for collaborations, projects, or just to say hello! 😊
