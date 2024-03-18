@@ -1,53 +1,34 @@
 # Hi there! 👋 I'm Poorva Tuteja
 
-Welcome to my GitHub profile! I'm a passionate Mobile Application Developer with a keen interest in creating innovative and user-friendly apps. I enjoy exploring new technologies and finding elegant solutions to complex problems.
+## About Me
+I'm a passionate mobile application developer with over 5 years of experience in building engaging and user-friendly mobile apps. My expertise lies in creating sleek and efficient applications for both iOS and Android platforms. I thrive in dynamic environments where I can leverage my skills in software development and design to deliver exceptional solutions.
 
-## 🔧 Skills
+## Skills
+- **Programming Languages:** Swift, Kotlin, Java
+- **Frameworks & Tools:** SwiftUI, Android Studio, Xcode
+- **UI/UX Design:** Adobe XD, Sketch
+- **Version Control:** Git, GitHub
+- **Database:** Firebase, Core Data, SQLite
 
-- **Languages:** Swift, Kotlin, Java
-- **Frameworks:** SwiftUI, Android SDK
-- **Tools:** Xcode, Android Studio
-- **Version Control:** Git
+## Projects
+### [Project A](link-to-project-a)
+**Description:** Project A is a social networking app designed to connect people with shared interests. I led the development team, implementing features such as real-time messaging, user profiles, and personalized recommendations.
 
-## 📈 GitHub Stats
+### [Project B](link-to-project-b)
+**Description:** Project B is an e-commerce platform catering to fashion enthusiasts. I played a key role in developing the app's intuitive shopping interface, secure payment gateway integration, and personalized product recommendations engine.
 
-![Poorva-A00297975's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs)
+### [Project C](link-to-project-c)
+**Description:** Project C is a productivity tool designed to streamline task management and collaboration in the workplace. I contributed to the app's backend development, API integration, and data synchronization features.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+## Statistics
+![Poorva Tuteja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=poorvatuteja&show_icons=true&theme=radical)
 
-## 🌟 GitHub Activity
+## GitHub Activity
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=poorvatuteja&theme=react-dark)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username)
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/poorvatuteja/)
+- [Twitter](https://twitter.com/poorvatuteja)
+- [Portfolio](https://www.poorvatuteja.com)
 
-## 📱 Projects
-
-Here are a few projects that showcase my skills and interests:
-
-1. **AwesomeApp**
-   - Description: A feature-rich mobile application for [brief description].
-   - Technologies: Swift, SwiftUI, [other relevant technologies].
-   - [Link to the project repository or live demo].
-
-2. **CoolProject**
-   - Description: [Brief description of the project].
-   - Technologies: Kotlin, Android SDK, [other relevant technologies].
-   - [Link to the project repository or live demo].
-
-3. **InnovativeApp**
-   - Description: [Brief description of the project].
-   - Technologies: Swift, SwiftUI, [other relevant technologies].
-   - [Link to the project repository or live demo].
-
-## 🌱 Currently Learning
-
-I'm always eager to expand my knowledge. Currently, I'm learning [current learning focus, e.g., Machine Learning with CoreML].
-
-## 📫 Let's Connect!
-
-- LinkedIn: [Your LinkedIn profile link]
-- Twitter: [@YourTwitterHandle]
-- Portfolio: [Your portfolio or personal website]
-
-Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about mobile app development! 😊
-
-Happy coding!
+Feel free to reach out to me for collaborations, projects, or just to say hello! 😊
