@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate Mobile Application Developer with
 
 ## 📈 GitHub Stats
 
-![Poorva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs)
+![Poorva-A00297975's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
